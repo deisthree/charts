@@ -1,5 +1,5 @@
 name: router-dev
-home: https://github.com/deis/router
+home: https://github.com/deisthree/router
 version: dev
 description: Deis Router (For testing only!)
 maintainers:

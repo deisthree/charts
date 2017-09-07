@@ -11,7 +11,7 @@ function check_platform_arch {
 
 ${PROGRAM} is not currently supported on ${PLATFORM}-${ARCH}.
 
-See https://github.com/deis/${PROGRAM} for more information.
+See https://github.com/deisthree/${PROGRAM} for more information.
 
 EOF
   fi

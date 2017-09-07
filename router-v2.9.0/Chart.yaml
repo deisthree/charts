@@ -1,5 +1,5 @@
 name: router-v2.9.0
-home: https://github.com/deis/router
+home: https://github.com/deisthree/router
 version: v2.9.0
 description: Deis Router
 maintainers:
@@ -16,6 +16,6 @@ details: |-
 
   NOTE: Kubernetes Helm has replaced Helm classic, so these charts are deprecated.
   Router v2.9.0 will be the last release installable with Helm classic (helmc).
-  See https://github.com/deis/workflow-migration#workflow-migration for help upgrading
+  See https://github.com/deisthree/workflow-migration#workflow-migration for help upgrading
   to Kubernetes Helm, and see https://deis.com/docs/workflow/installing-workflow/ for
   general installation instructions.

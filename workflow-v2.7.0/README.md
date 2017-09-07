@@ -1,16 +1,16 @@
 # Workflow v2.7.0
 
 Please report any issues you find in testing Workflow to the appropriate GitHub repository:
-- builder: https://github.com/deis/builder
-- chart: https://github.com/deis/charts
-- controller: https://github.com/deis/controller
-- database: https://github.com/deis/postgres
-- fluentd: https://github.com/deis/fluentd
+- builder: https://github.com/deisthree/builder
+- chart: https://github.com/deisthree/charts
+- controller: https://github.com/deisthree/controller
+- database: https://github.com/deisthree/postgres
+- fluentd: https://github.com/deisthree/fluentd
 - helm classic: https://github.com/helm/helm-classic
-- logger: https://github.com/deis/logger
-- minio: https://github.com/deis/minio
-- monitor: https://github.com/deis/monitor
-- nsq: https://github.com/deis/nsq
-- registry: https://github.com/deis/registry
-- router: https://github.com/deis/router
-- workflow manager: https://github.com/deis/workflow-manager
+- logger: https://github.com/deisthree/logger
+- minio: https://github.com/deisthree/minio
+- monitor: https://github.com/deisthree/monitor
+- nsq: https://github.com/deisthree/nsq
+- registry: https://github.com/deisthree/registry
+- router: https://github.com/deisthree/router
+- workflow manager: https://github.com/deisthree/workflow-manager

@@ -1,5 +1,5 @@
 name: workflow-v2.2.0-e2e
-home: https://github.com/deis/workflow-e2e
+home: https://github.com/deisthree/workflow-e2e
 version: v2.2.0
 description: |-
   End-to-end tests for Deis Workflow, executed in parallel

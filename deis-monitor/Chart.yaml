@@ -10,4 +10,4 @@ maintainers:
 details: |-
   NOTE: This chart requires daemonsets to be enabled. Please see https://github.com/kubernetes/kubernetes/blob/master/docs/api.md#enabling-resources-in-the-extensions-group for more information.
 
-  This chart start will start the following components: InfluxDB, Telgraf, and Grafana 3. Each provides an integral part of the monitoring and alerting stack for deis and kubernetes. You can read more about each at https://github.com/deis/monitor.
+  This chart start will start the following components: InfluxDB, Telgraf, and Grafana 3. Each provides an integral part of the monitoring and alerting stack for deis and kubernetes. You can read more about each at https://github.com/deisthree/monitor.
